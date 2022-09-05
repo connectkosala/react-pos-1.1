@@ -1,0 +1,37 @@
+.text__container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    height: 60%;
+    width: 80%;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.clear{
+    position: absolute;
+    left: 34vh !important;
+    top: 4vh !important;
+    width: 15vh;
+}
+
+.save{
+    position: absolute;
+    left: 56vh !important;
+    top: -3px !important;
+    width: 14vh;
+}
+
+.txt{
+    left: 4vh;
+}
+
+.table{
+    position: absolute;
+    top: 32vh;
+    color: white;
+}
+
+.col{
+    color: white;
+}

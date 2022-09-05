@@ -1,0 +1,110 @@
+.h3 {
+    font-family: Comfortaa, sans-serif;
+    color: Black;
+    font-size: large;
+}
+
+.nav-bar{
+    position: fixed;
+    height: 65px;
+    width: 100%;
+    font-size: 19px;
+    background-color: #bdc3c7;
+    box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
+    top: 0;
+    right: 0;
+    left: 0;
+    margin: auto;
+    z-index: 1;
+}
+
+.btn__center{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: -8vh;
+}
+
+.btn2{
+    position: relative;
+    top: 2vh;
+    left: -24vh;
+    width: 14vh;
+    height: 34px;
+    font-family: Comfortaa,sans-serif;
+}
+.btn1{
+    position: absolute;
+    height: 34px;
+}
+
+.card_1{
+    position: absolute;
+    top: 12vh;
+    width: 40vh;
+    left: 34vh;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+
+}
+
+.type{
+    position: relative;
+    left: 6vh;
+    top:1vh;
+    color: black;
+}
+
+.card_2{
+    position: absolute;
+    top: 12vh;
+    width: 40vh;
+    left: 123vh;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+
+}
+
+.span{
+    position: relative;
+    left: 6vh;
+}
+
+.type1{
+    position: relative;
+    left: 6vh;
+    top:1vh;
+    color: black;
+}
+
+.span1{
+    position: relative;
+    left: 1vh;
+}
+
+.span2{
+    position: relative;
+    left: 1vh;
+}
+
+.span3{
+    position: relative;
+    left: 9vh;
+}
+
+.card_3{
+    position: absolute;
+    top: 56vh;
+    width: 40vh;
+    left: 79vh;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+
+}
+
+.span4{
+    position: relative;
+    left: 0;
+}
+
+.span5{
+    position: relative;
+    left: 10vh;
+}
